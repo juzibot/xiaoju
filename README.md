@@ -30,6 +30,8 @@
 现在的产品还在beta 阶段，欢迎体验！
 https://wechat.botorange.com
 
+## 其他内容
 
-## 欢迎吐槽
-欢迎在这里吐槽 https://github.com/botorange/xiaoju/issues
+- [点击查看更新日志 & 开发计划](https://trello.com/b/hQfvAHhy/%E4%BA%A7%E5%93%81%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-%E5%BC%80%E5%8F%91%E8%AE%A1%E5%88%92)
+- [点击查看操作手册](http://help.botorange.com/)
+- [点击进行产品吐槽，欢迎吐槽~](https://github.com/botorange/xiaoju/issues/new)
